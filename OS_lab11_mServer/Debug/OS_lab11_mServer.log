@@ -1,0 +1,5 @@
+﻿  server.cpp
+C:\Users\bohda\Desktop\Bohdan\study\3_semester\OS\labs\Proj\lab11\OS_lab11_mServer\OS_lab11_mServer\server.cpp(399,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bohda\Desktop\Bohdan\study\3_semester\OS\labs\Proj\lab11\OS_lab11_mServer\OS_lab11_mServer\server.cpp(441,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bohda\Desktop\Bohdan\study\3_semester\OS\labs\Proj\lab11\OS_lab11_mServer\OS_lab11_mServer\server.cpp(159): warning C4715: 'ClientTread': not all control paths return a value
+  OS_lab11_mServer.vcxproj -> C:\Users\bohda\Desktop\Bohdan\study\3_semester\OS\labs\Proj\lab11\OS_lab11_mServer\Debug\OS_lab11_mServer.exe

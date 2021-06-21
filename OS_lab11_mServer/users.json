@@ -1,0 +1,36 @@
+{
+	"idList" : 
+	[
+		{
+			"admin" : true,
+			"fault" : 0,
+			"login" : "zumori",
+			"passw" : "arisiba"
+		},
+		{
+			"admin" : true,
+			"fault" : 0,
+			"login" : "fanteak",
+			"passw" : "fanfeak"
+		},
+		{
+			"admin" : true,
+			"fault" : 0,
+			"login" : "yuri",
+			"passw" : "yuriTheTop"
+		},
+		{
+			"admin" : false,
+			"fault" : 0,
+			"login" : "bengamin",
+			"passw" : "452353"
+		},
+		{
+			"admin" : false,
+			"fault" : 0,
+			"login" : "user",
+			"passw" : "user"
+		}
+	],
+	"number" : 5
+}

@@ -1,0 +1,481 @@
+
+================================================================
+
+[14-1-2021 16:55:22]: SERVER | Ready for work | Wait for connections...
+[14-1-2021 20:28:39]: SERVER | Starting...
+[14-1-2021 20:43:5]: SERVER | Client connected
+[14-1-2021 20:43:37]: SERVER | Client connected
+[14-1-2021 20:44:34]: SERVER | Client connected
+
+================================================================
+
+[14-1-2021 20:48:32]: SERVER | Starting...
+[14-1-2021 20:48:32]: SERVER | Ready for work | Wait for connections...
+[14-1-2021 20:48:34]: SERVER | Client connected
+
+================================================================
+
+[14-1-2021 20:50:18]: SERVER | Starting...
+[14-1-2021 20:50:18]: SERVER | Ready for work | Wait for connections...
+[14-1-2021 20:50:22]: SERVER | Client connected
+[14-1-2021 20:50:22]: ERROR | socket error
+
+================================================================
+
+[15-1-2021 16:2:54]: SERVER | Starting...
+[15-1-2021 16:2:54]: SERVER | Ready for work | Wait for connections...
+[15-1-2021 16:2:57]: SERVER | Client connected
+[15-1-2021 16:3:45]: SERVER | Message recieved
+[15-1-2021 16:3:45]: THIS | anon | Invalid command
+[15-1-2021 16:4:16]: SERVER | Message recieved
+[15-1-2021 16:4:16]: THIS | anon | Invalid command
+
+================================================================
+
+[15-1-2021 16:4:39]: SERVER | Starting...
+[15-1-2021 16:4:39]: SERVER | Ready for work | Wait for connections...
+[15-1-2021 16:4:45]: SERVER | Client connected
+[15-1-2021 16:4:54]: SERVER | Message recieved
+[15-1-2021 16:4:54]: SEND | anon | Invalid command
+
+================================================================
+
+[15-1-2021 16:7:1]: SERVER | Starting...
+[15-1-2021 16:7:1]: SERVER | Ready for work | Wait for connections...
+[15-1-2021 16:7:3]: SERVER | Client connected
+[15-1-2021 16:7:12]: SERVER | Message recieved
+[15-1-2021 16:7:12]: SEND | anon | Invalid command
+[15-1-2021 16:7:55]: ERROR | socket error
+
+================================================================
+
+[15-1-2021 16:48:7]: LOGIN | yuri | User authorised
+[15-1-2021 16:48:21]: SERVER | Message recieved
+[15-1-2021 16:48:21]: SEND | yuri | Message recieved
+[15-1-2021 16:49:11]: SERVER | Message recieved
+[15-1-2021 16:49:11]: LOGIN | yuri | Already logined
+[15-1-2021 16:49:18]: SERVER | Message recieved
+[15-1-2021 16:49:18]: QUIT | yuri
+
+
+================================================================
+
+[15-1-2021 23:4:19]: SERVER | Starting...
+[15-1-2021 23:4:19]: SERVER | Ready for work | Wait for connections...
+[15-1-2021 23:4:23]: ERROR | accept failed | 0
+
+================================================================
+
+[15-1-2021 23:7:39]: SERVER | Starting...
+[15-1-2021 23:7:39]: SERVER | Ready for work | Wait for connections...
+
+================================================================
+
+[16-1-2021 11:11:42]: SERVER | Starting...
+[16-1-2021 11:11:42]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 11:11:47]: SERVER | Client connected
+[16-1-2021 11:12:2]: SERVER | Message recieved
+[16-1-2021 11:12:2]: SEND | anon | User not logged
+
+================================================================
+
+[16-1-2021 11:13:10]: SERVER | Starting...
+[16-1-2021 11:13:10]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 11:13:14]: SERVER | Client connected
+[16-1-2021 11:13:24]: SERVER | Message recieved
+[16-1-2021 11:13:24]: SEND | anon | User not logged
+[16-1-2021 11:14:0]: SERVER | Message recieved
+[16-1-2021 11:14:0]: AUTH | user | Account created
+[16-1-2021 11:14:13]: SERVER | Message recieved
+[16-1-2021 11:14:13]: SEND | user | Message recieved
+[16-1-2021 11:15:44]: ERROR | socket error
+[16-1-2021 11:15:50]: SERVER | Client connected
+[16-1-2021 11:16:6]: SERVER | Message recieved
+[16-1-2021 11:16:6]: LOGIN | user | User authorised
+[16-1-2021 11:16:25]: SERVER | Message recieved
+[16-1-2021 11:16:25]: SEND | user | Message recieved
+[16-1-2021 11:16:35]: ERROR | socket error
+
+================================================================
+
+[16-1-2021 11:16:50]: SERVER | Starting...
+[16-1-2021 11:16:50]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 11:16:52]: SERVER | Client connected
+[16-1-2021 11:17:25]: SERVER | Message recieved
+[16-1-2021 11:17:25]: LOGIN | yuri | User authorised
+[16-1-2021 11:17:33]: SERVER | Message recieved
+[16-1-2021 11:17:33]: FAULT | yuri | Sent successfully
+[16-1-2021 11:18:8]: SERVER | Message recieved
+[16-1-2021 11:18:8]: SEND | yuri | Message recieved
+[16-1-2021 11:18:10]: SERVER | Message recieved
+[16-1-2021 11:18:10]: QUIT | yuri
+
+================================================================
+
+[16-1-2021 12:32:42]: SERVER | Starting...
+[16-1-2021 12:32:42]: SERVER | Ready for work | Wait for connections...
+
+================================================================
+
+[16-1-2021 12:33:39]: SERVER | Starting...
+[16-1-2021 12:33:39]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 12:34:59]: SERVER | Client connected
+[16-1-2021 12:34:59]: SERVER | Message recieved
+[16-1-2021 12:34:59]: LOGIN | yuri | User authorised
+[16-1-2021 12:35:0]: SERVER | Message recieved
+[16-1-2021 12:35:0]: FAULT | yuri | Sent successfully
+[16-1-2021 12:35:0]: SERVER | Message recieved
+[16-1-2021 12:35:0]: FAULT | yuri | Invalid command
+[16-1-2021 12:35:0]: SERVER | Message recieved
+[16-1-2021 12:35:0]: QUIT | yuri
+[16-1-2021 12:35:4]: SERVER | Client connected
+[16-1-2021 12:35:4]: SERVER | Message recieved
+[16-1-2021 12:35:4]: LOGIN | yuri | User authorised
+[16-1-2021 12:35:5]: SERVER | Message recieved
+[16-1-2021 12:35:5]: FAULT | yuri | Sent successfully
+[16-1-2021 12:35:5]: SERVER | Message recieved
+[16-1-2021 12:35:5]: FAULT | yuri | Invalid command
+[16-1-2021 12:35:5]: SERVER | Message recieved
+[16-1-2021 12:35:5]: QUIT | yuri
+[16-1-2021 12:35:9]: SERVER | Client connected
+[16-1-2021 12:35:9]: SERVER | Message recieved
+[16-1-2021 12:35:9]: LOGIN | yuri | User authorised
+[16-1-2021 12:35:10]: SERVER | Message recieved
+[16-1-2021 12:35:10]: FAULT | yuri | Sent successfully
+[16-1-2021 12:35:10]: SERVER | Message recieved
+[16-1-2021 12:35:10]: FAULT | yuri | Invalid command
+[16-1-2021 12:35:10]: SERVER | Message recieved
+[16-1-2021 12:35:10]: QUIT | yuri
+
+================================================================
+
+[16-1-2021 12:36:12]: SERVER | Starting...
+[16-1-2021 12:36:12]: SERVER | Ready for work | Wait for connections...
+
+================================================================
+
+[16-1-2021 12:36:44]: SERVER | Starting...
+[16-1-2021 12:36:44]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 12:36:54]: SERVER | Client connected
+[16-1-2021 12:36:54]: SERVER | Message recieved
+[16-1-2021 12:36:54]: LOGIN | yuri | User authorised
+[16-1-2021 12:36:54]: SERVER | Message recieved
+[16-1-2021 12:36:54]: FAULT | yuri | Sent successfully
+[16-1-2021 12:36:55]: SERVER | Message recieved
+[16-1-2021 12:36:55]: FAULT | yuri | Invalid command
+[16-1-2021 12:36:55]: SERVER | Message recieved
+[16-1-2021 12:36:55]: QUIT | yuri
+[16-1-2021 12:36:59]: SERVER | Client connected
+[16-1-2021 12:36:59]: SERVER | Message recieved
+[16-1-2021 12:36:59]: LOGIN | yuri | User authorised
+[16-1-2021 12:36:59]: SERVER | Message recieved
+[16-1-2021 12:36:59]: FAULT | yuri | Sent successfully
+[16-1-2021 12:37:0]: SERVER | Message recieved
+[16-1-2021 12:37:0]: FAULT | yuri | Invalid command
+[16-1-2021 12:37:0]: SERVER | Message recieved
+[16-1-2021 12:37:0]: QUIT | yuri
+
+================================================================
+
+[16-1-2021 12:39:46]: SERVER | Starting...
+[16-1-2021 12:39:46]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 12:39:52]: SERVER | Client connected
+[16-1-2021 12:39:52]: SERVER | Message recieved
+[16-1-2021 12:39:52]: LOGIN | yuri | User authorised
+[16-1-2021 12:39:53]: SERVER | Message recieved
+[16-1-2021 12:39:53]: FAULT | yuri | Sent successfully
+[16-1-2021 12:39:53]: SERVER | Message recieved
+[16-1-2021 12:39:53]: SEND  | yuri | Invalid command
+[16-1-2021 12:39:53]: SERVER | Message recieved
+[16-1-2021 12:39:53]: QUIT | yuri
+[16-1-2021 12:39:57]: SERVER | Client connected
+[16-1-2021 12:39:57]: SERVER | Message recieved
+[16-1-2021 12:39:57]: LOGIN | yuri | User authorised
+[16-1-2021 12:39:58]: SERVER | Message recieved
+[16-1-2021 12:39:58]: FAULT | yuri | Sent successfully
+[16-1-2021 12:39:58]: SERVER | Message recieved
+[16-1-2021 12:39:58]: SEND  | yuri | Invalid command
+[16-1-2021 12:39:58]: SERVER | Message recieved
+[16-1-2021 12:39:58]: QUIT | yuri
+
+================================================================
+
+[16-1-2021 12:40:39]: SERVER | Starting...
+[16-1-2021 12:40:39]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 12:40:46]: SERVER | Client connected
+[16-1-2021 12:40:46]: SERVER | Message recieved
+[16-1-2021 12:40:46]: LOGIN | yuri | User authorised
+[16-1-2021 12:40:47]: SERVER | Message recieved
+[16-1-2021 12:40:47]: FAULT | yuri | Sent successfully
+[16-1-2021 12:40:47]: SERVER | Message recieved
+[16-1-2021 12:40:47]: SEND  | yuri | Invalid command
+[16-1-2021 12:40:47]: SERVER | Message recieved
+[16-1-2021 12:40:47]: QUIT | yuri
+
+================================================================
+
+[16-1-2021 12:41:37]: SERVER | Starting...
+[16-1-2021 12:41:37]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 12:41:47]: SERVER | Client connected
+[16-1-2021 12:41:47]: SERVER | Message recieved
+[16-1-2021 12:41:47]: LOGIN | yuri | User authorised
+[16-1-2021 12:41:47]: SERVER | Message recieved
+[16-1-2021 12:41:47]: FAULT | yuri | Sent successfully
+[16-1-2021 12:41:48]: SERVER | Message recieved
+[16-1-2021 12:41:48]: SEND  | yuri | Invalid command
+[16-1-2021 12:41:48]: SERVER | Message recieved
+[16-1-2021 12:41:48]: QUIT | yuri
+
+================================================================
+
+[16-1-2021 12:58:21]: SERVER | Starting...
+[16-1-2021 12:58:21]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 12:58:50]: SERVER | Client connected
+[16-1-2021 12:58:50]: SERVER | Message recieved
+[16-1-2021 12:58:50]: AUTH | anon | Username taken
+
+================================================================
+
+[16-1-2021 12:59:28]: SERVER | Starting...
+[16-1-2021 12:59:28]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 12:59:47]: SERVER | Client connected
+[16-1-2021 12:59:47]: SERVER | Message recieved
+[16-1-2021 12:59:47]: LOGIN | yuri | User authorised
+[16-1-2021 13:0:55]: ERROR | socket error
+[16-1-2021 13:1:11]: SERVER | Client connected
+[16-1-2021 13:1:11]: SERVER | Message recieved
+[16-1-2021 13:1:11]: LOGIN | yuri | User authorised
+
+================================================================
+
+[16-1-2021 13:3:20]: SERVER | Starting...
+[16-1-2021 13:3:20]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:3:41]: SERVER | Client connected
+[16-1-2021 13:3:41]: SERVER | Message recieved
+[16-1-2021 13:3:41]: LOGIN | yuri | User authorised
+[16-1-2021 13:4:50]: ERROR | socket error
+
+================================================================
+
+[16-1-2021 13:6:30]: SERVER | Starting...
+[16-1-2021 13:6:30]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:6:46]: SERVER | Client connected
+[16-1-2021 13:6:46]: SERVER | Message recieved
+[16-1-2021 13:6:46]: LOGIN | yuri | User authorised
+[16-1-2021 13:7:12]: ERROR | socket error
+
+================================================================
+
+[16-1-2021 13:7:41]: SERVER | Starting...
+[16-1-2021 13:7:41]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:7:57]: SERVER | Client connected
+[16-1-2021 13:7:57]: SERVER | Message recieved
+[16-1-2021 13:7:57]: LOGIN | yuri | User authorised
+
+================================================================
+
+[16-1-2021 13:11:35]: SERVER | Starting...
+[16-1-2021 13:11:35]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:11:54]: SERVER | Client connected
+[16-1-2021 13:11:54]: SERVER | Message recieved
+[16-1-2021 13:11:54]: LOGIN | yuri | User authorised
+[16-1-2021 13:14:5]: ERROR | socket error
+
+================================================================
+
+[16-1-2021 13:14:9]: SERVER | Starting...
+[16-1-2021 13:14:9]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:14:25]: SERVER | Client connected
+[16-1-2021 13:14:25]: SERVER | Message recieved
+[16-1-2021 13:14:25]: LOGIN | yuri | User authorised
+[16-1-2021 13:14:31]: SERVER | Client connected
+[16-1-2021 13:14:31]: SERVER | Message recieved
+[16-1-2021 13:14:31]: LOGIN | yuri | User authorised
+
+================================================================
+
+[16-1-2021 13:15:51]: SERVER | Starting...
+[16-1-2021 13:15:51]: SERVER | Ready for work | Wait for connections...
+
+================================================================
+
+[16-1-2021 13:19:53]: SERVER | Starting...
+[16-1-2021 13:19:53]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:20:4]: SERVER | Client connected
+[16-1-2021 13:20:4]: SERVER | Message recieved
+[16-1-2021 13:20:4]: LOGIN | yuri | User authorised
+[16-1-2021 13:20:5]: SERVER | Message recieved
+[16-1-2021 13:20:5]: FAULT | yuri | Sent successfully
+[16-1-2021 13:20:9]: SERVER | Client connected
+[16-1-2021 13:20:9]: SERVER | Message recieved
+[16-1-2021 13:20:9]: LOGIN | yuri | User authorised
+[16-1-2021 13:20:10]: SERVER | Message recieved
+[16-1-2021 13:20:10]: FAULT | yuri | Sent successfully
+[16-1-2021 13:20:14]: SERVER | Client connected
+[16-1-2021 13:20:14]: SERVER | Message recieved
+[16-1-2021 13:20:14]: LOGIN | yuri | User authorised
+[16-1-2021 13:20:15]: SERVER | Message recieved
+[16-1-2021 13:20:15]: FAULT | yuri | Sent successfully
+[16-1-2021 13:20:16]: ERROR | socket error
+[16-1-2021 13:20:16]: ERROR | socket error
+[16-1-2021 13:20:16]: ERROR | socket error
+
+================================================================
+
+[16-1-2021 13:22:35]: SERVER | Starting...
+[16-1-2021 13:22:35]: ERROR | bind failed | -1
+
+================================================================
+
+[16-1-2021 13:23:24]: SERVER | Starting...
+[16-1-2021 13:23:24]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:23:35]: SERVER | Client connected
+[16-1-2021 13:23:35]: SERVER | Message recieved
+[16-1-2021 13:23:35]: LOGIN | anon | Invalid command
+[16-1-2021 13:23:52]: ERROR | socket error
+[16-1-2021 13:25:11]: SERVER | Client connected
+[16-1-2021 13:25:11]: SERVER | Message recieved
+[16-1-2021 13:25:11]: LOGIN | fanteak | User authorised
+[16-1-2021 13:25:34]: SERVER | Client connected
+[16-1-2021 13:25:34]: SERVER | Message recieved
+[16-1-2021 13:25:34]: LOGIN | fanteak | User authorised
+
+================================================================
+
+[16-1-2021 13:33:41]: SERVER | Starting...
+[16-1-2021 13:33:41]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:34:26]: SERVER | Client connected
+[16-1-2021 13:34:26]: SERVER | Message recieved
+[16-1-2021 13:34:26]: LOGIN | fanteak | User authorised
+[16-1-2021 13:35:52]: ERROR | socket error
+[16-1-2021 13:36:24]: SERVER | Client connected
+[16-1-2021 13:36:24]: SERVER | Message recieved
+[16-1-2021 13:36:24]: LOGIN | fanteak | User authorised
+[16-1-2021 13:36:53]: ERROR | socket error
+[16-1-2021 13:38:15]: SERVER | Client connected
+[16-1-2021 13:38:15]: SERVER | Message recieved
+[16-1-2021 13:38:15]: LOGIN | fanteak | User authorised
+[16-1-2021 13:38:40]: ERROR | socket error
+[16-1-2021 13:40:48]: SERVER | Client connected
+[16-1-2021 13:40:48]: SERVER | Message recieved
+[16-1-2021 13:40:48]: LOGIN | fanteak | User authorised
+[16-1-2021 13:41:3]: ERROR | socket error
+
+================================================================
+
+[16-1-2021 13:44:19]: SERVER | Starting...
+[16-1-2021 13:44:19]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:44:48]: SERVER | Client connected
+[16-1-2021 13:45:20]: SERVER | Message recieved
+[16-1-2021 13:45:20]: LOGIN | fanteak | User authorised
+[16-1-2021 13:45:57]: SERVER | Message recieved
+[16-1-2021 13:45:57]: SEND | fanteak | Message recieved
+
+================================================================
+
+[16-1-2021 13:48:23]: SERVER | Starting...
+[16-1-2021 13:48:23]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:48:26]: SERVER | Client connected
+[16-1-2021 13:48:43]: SERVER | Message recieved
+[16-1-2021 13:48:43]: LOGIN | fanteak | User authorised
+[16-1-2021 13:48:53]: SERVER | Message recieved
+[16-1-2021 13:48:53]: SEND | fanteak | Message recieved
+[16-1-2021 13:48:53]: SERVER | Message recieved
+[16-1-2021 13:48:53]: SET | <M> fanteak : fanteak lox
+ | fanteak | Invalid command
+
+================================================================
+
+[16-1-2021 13:53:15]: SERVER | Starting...
+[16-1-2021 13:53:15]: SERVER | Ready for work | Wait for connections...
+
+================================================================
+
+[16-1-2021 13:53:21]: SERVER | Starting...
+[16-1-2021 13:53:21]: ERROR | bind failed | -1
+[16-1-2021 13:53:28]: SERVER | Client connected
+[16-1-2021 13:53:38]: SERVER | Message recieved
+[16-1-2021 13:53:38]: LOGIN | fanteak | User authorised
+[16-1-2021 13:53:49]: SERVER | Message recieved
+[16-1-2021 13:53:49]: SEND | fanteak | Message recieved
+[16-1-2021 13:53:49]: SERVER | Message recieved
+[16-1-2021 13:53:49]: SET | <M> fanteak : fanteak csgo | fanteak | Invalid command
+
+================================================================
+
+[16-1-2021 13:56:11]: SERVER | Starting...
+[16-1-2021 13:56:11]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:56:12]: SERVER | Client connected
+[16-1-2021 13:56:23]: SERVER | Message recieved
+[16-1-2021 13:56:23]: LOGIN | fanteak | User authorised
+[16-1-2021 13:56:30]: SERVER | Message recieved
+[16-1-2021 13:56:30]: SEND | fanteak | Message recieved
+[16-1-2021 13:56:30]: SERVER | Message recieved
+[16-1-2021 13:56:30]: SET | <M> fanteak : fanteak csgo | fanteak | Invalid command
+[16-1-2021 13:57:15]: ERROR | socket error
+
+================================================================
+
+[16-1-2021 13:57:43]: SERVER | Starting...
+[16-1-2021 13:57:47]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:57:50]: SERVER | Client connected
+[16-1-2021 13:58:0]: SERVER | Message recieved
+[16-1-2021 13:58:0]: LOGIN | fanteak | User authorised
+[16-1-2021 13:58:15]: SERVER | Message recieved
+[16-1-2021 13:58:15]: SEND | fanteak | Message recieved
+[16-1-2021 13:58:15]: SERVER | Message recieved
+
+================================================================
+
+[16-1-2021 13:58:59]: SERVER | Starting...
+[16-1-2021 13:58:59]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:59:1]: SERVER | Client connected
+[16-1-2021 13:59:4]: ERROR | socket error
+
+================================================================
+
+[16-1-2021 13:59:15]: SERVER | Starting...
+[16-1-2021 13:59:15]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 13:59:17]: SERVER | Client connected
+[16-1-2021 13:59:29]: SERVER | Message recieved
+[16-1-2021 13:59:29]: LOGIN | fanteak | User authorised
+[16-1-2021 13:59:36]: SERVER | Message recieved
+[16-1-2021 13:59:36]: SEND | fanteak | Message recieved
+[16-1-2021 13:59:36]: SERVER | Message recieved
+
+================================================================
+
+[16-1-2021 14:0:34]: SERVER | Starting...
+[16-1-2021 14:0:34]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 14:0:35]: SERVER | Client connected
+[16-1-2021 14:0:48]: SERVER | Message recieved
+[16-1-2021 14:0:48]: LOGIN | fanteak | User authorised
+[16-1-2021 14:0:58]: SERVER | Message recieved
+[16-1-2021 14:0:58]: SEND | fanteak | Message recieved
+[16-1-2021 14:0:58]: SERVER | Message recieved
+[16-1-2021 14:0:58]: SET | <m> | fanteak | User is admin
+[16-1-2021 14:1:32]: ERROR | socket error
+
+================================================================
+
+[16-1-2021 14:5:34]: SERVER | Starting...
+[16-1-2021 14:5:34]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 14:6:10]: SERVER | Client connected
+[16-1-2021 14:6:10]: SERVER | Message recieved
+[16-1-2021 14:6:10]: LOGIN | yuri | User authorised
+[16-1-2021 14:6:37]: ERROR | socket error
+
+================================================================
+
+[16-1-2021 14:7:50]: SERVER | Starting...
+[16-1-2021 14:7:50]: SERVER | Ready for work | Wait for connections...
+[16-1-2021 14:7:52]: SERVER | Client connected
+[16-1-2021 14:8:7]: SERVER | Message recieved
+[16-1-2021 14:8:7]: LOGIN | fanteak | User authorised
+[16-1-2021 14:8:13]: SERVER | Message recieved
+[16-1-2021 14:8:13]: QUIT | fanteak
+
+================================================================
+
+[16-1-2021 14:25:1]: SERVER | Starting...
+[16-1-2021 14:25:1]: SERVER | Ready for work | Wait for connections...
